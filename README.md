@@ -1,1 +1,1 @@
-# final-project
+Actually, you can see 3 pages:login page, sign up page and the homepage. You can change the language in the dropdown menu which located in upper right angle. Login and sign up page consist the javascript code, which check your entered information. If login or password is wrong the alert message wil pop-up in the top of the page. There aren't any comments, but the code is simple and any person will easily understand and supplement it.
